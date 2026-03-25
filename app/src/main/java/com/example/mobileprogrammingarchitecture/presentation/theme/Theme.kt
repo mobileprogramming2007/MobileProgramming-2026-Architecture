@@ -1,6 +1,5 @@
-package com.example.mobileprogrammingarchitecture.ui.theme
+package com.example.mobileprogrammingarchitecture.presentation.theme
 
-import android.app.Activity
 import android.os.Build
 import androidx.compose.foundation.isSystemInDarkTheme
 import androidx.compose.material3.MaterialTheme
